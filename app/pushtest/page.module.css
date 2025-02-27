@@ -4,7 +4,7 @@
     align-items: center;
 }
 
-.activeButton {
+.activeButton { 
     background-color: var(--color-secondary) !important;
     border: 2px solid var(--color-secondary) !important;
 }
