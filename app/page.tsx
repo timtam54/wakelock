@@ -55,7 +55,6 @@ export default function WakeLockPage() {
         {wakeLock ? "Deactivate Wake Lock" : "Activate Wake Lock"}
       </button>
       <p className={styles.info}>When active, this will prevent your device from dimming or locking the screen.</p>
-  
     </div>
   )
 }
